@@ -15,6 +15,11 @@ website.
 Changes
 -------
 
+[V7](https://configure.ergodox-ez.com/keyboard_layouts/vljvpx/edit):
+
+* Switch from Linux to Mac friendly
+* Introduce single hand typing layer
+
 [V6](http://configure.ergodox-ez.com/keyboard_layouts/qjpwbd/edit):
 
 - Introduce the Backspace key at the top right position, like in qwerty. Since
