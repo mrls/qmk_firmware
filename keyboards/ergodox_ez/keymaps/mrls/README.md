@@ -15,6 +15,10 @@ website.
 Changes
 -------
 
+[V8](https://configure.ergodox-ez.com/keyboard_layouts/exzybp/edit)
+
+* Fix typo on single hand layer
+
 [V7](https://configure.ergodox-ez.com/keyboard_layouts/vljvpx/edit):
 
 * Switch from Linux to Mac friendly
