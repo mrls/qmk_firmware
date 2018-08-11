@@ -15,6 +15,10 @@ website.
 Changes
 -------
 
+[V9](https://configure.ergodox-ez.com/keyboard_layouts/ldmrvv/edit)
+
+* Add media keys
+
 [V8](https://configure.ergodox-ez.com/keyboard_layouts/exzybp/edit)
 
 * Fix typo on single hand layer
