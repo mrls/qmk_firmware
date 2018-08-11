@@ -15,6 +15,10 @@ website.
 Changes
 -------
 
+[V10](https://configure.ergodox-ez.com/keyboard_layouts/jdlbno/edit)
+
+* Fix Vol+ key
+
 [V9](https://configure.ergodox-ez.com/keyboard_layouts/ldmrvv/edit)
 
 * Add media keys
