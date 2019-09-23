@@ -15,6 +15,10 @@ website.
 Changes
 -------
 
+[V12](https://configure.ergodox-ez.com/ergodox-ez/layouts/x9OaL/latest/0)
+
+* Fix up and down arrow direction
+
 [V11](https://configure.ergodox-ez.com/layouts/Bolx/latest/0)
 
 * Remove bottom left key, accessing was getting painful
