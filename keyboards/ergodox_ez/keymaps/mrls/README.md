@@ -15,6 +15,14 @@ website.
 Changes
 -------
 
+[V11](https://configure.ergodox-ez.com/layouts/Bolx/latest/0)
+
+* Remove bottom left key, accessing was getting painful
+  * Move L2->2 to letter 'A' just like ';' works on the right hand
+  * Remove backtick. It's now only accessible via L1
+* Create L2->1 for letter 'H' to be able to access symbols temporarily
+* Add an SCmd key on L1
+
 [V10](https://configure.ergodox-ez.com/keyboard_layouts/jdlbno/edit)
 
 * Fix Vol+ key
